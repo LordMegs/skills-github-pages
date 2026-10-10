@@ -1,6 +1,4 @@
----
-title: Petra
----
+
 <img alt="Profile Placeholder" src="https://octodex.github.com/images/codercat.jpg" width="120" align="right">
 
 # About Me
