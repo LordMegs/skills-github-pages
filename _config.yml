@@ -1,0 +1,9 @@
+# Site settings
+title: "Petra"
+email: "somashekartm08.com"
+description: >-
+  This is a sample description for my Jekyll site. 
+  It appears in search engine results and feeds.
+  
+theme: minima
+
