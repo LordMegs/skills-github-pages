@@ -1,28 +1,35 @@
 ---
 title: Petra
 ---
+<img alt="Profile Placeholder" src="https://octodex.github.com/images/codercat.jpg" width="120" align="right">
 
-<img alt="Historical Monument" src="https://octodex.github.com/images/Mardigrastocat.png" width="100" align="right">
+# About Me
 
-# Petra
+Welcome to my personal corner of the web. I am a tech enthusiast and computer science student deeply passionate about software development, system architecture, and turning complex ideas into clean, functional code. 
 
-**Petra** is a historic and archaeological city in southern Jordan. Famous for its rock-cut architecture and water conduit system, Petra is also called the "Rose City" because of the color of the stone from which it is carved.
-
-Established possibly as early as 312 BC as the capital city of the Nabataeans, it is a symbol of Jordan, as well as Jordan's most-visited tourist attraction. The Nabataeans were nomadic Arabs who invested their wealth in knowledge of complex water-engineering techniques, constructing intricate structures of dams, cisterns, and water channels to securely control seasonal flash floods.
-
----
-
-## Geography and Climate
-
-* **Location:** Situated between the Red Sea and the Dead Sea, nestled among rugged desert canyons and mountains.
-* **Climate:** Exhibits a desert climate characterized by hot, dry summers and mild winters with occasional precipitation.
+Whether I'm diving into data structures, exploring database normalization, or experimenting with modern development workflows, I enjoy building solutions that are both efficient and well-structured.
 
 ---
 
-## Key Archaeological Zones
+##  Current Focus & Objectives
 
--  **The Siq:** A dramatic, narrow gorge that serves as the main entrance to the ancient city.
--  **Al-Khazneh (The Treasury):** The most elaborate temple, carved entirely out of a sandstone rock face.
--  **The Monastery:** A monumental building perched high above the main valley floor.
+-  Master advanced data structures and algorithmic problem-solving.
+-  Explore all the latest and greatest innovations in the field of computer science. 
+-  Document daily technical learnings and personal projects.
+-  Learn new programming concepts and build real tangible software for the betterment of humanity. 
 
-> **Note:** The site was designated a UNESCO World Heritage Site in 1985 and was named one of the New7Wonders of the World in 2007.
+---
+
+##  Tech Stack & Interests
+
+* **Languages & Core:** Java, Python, JavaScript, Node.js
+* **Data & Systems:** MongoDB
+* **Development Philosophy:** Writing modular, maintainable code with a strong emphasis on clean architecture and rigorous debugging.
+
+---
+
+##  Quick Snapshot
+
+When I'm not writing code or tackling technical challenges, you can find me watching absurd yet knowledgable videos on youtube or , tinkering with the hardware I own, or just binge watching movies / TV Shows.
+
+> **Quote:** "Simplicity is prerequisite for reliability." — Edsger W. Dijkstra
