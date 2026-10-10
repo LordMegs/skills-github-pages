@@ -1,5 +1,5 @@
 ---
-title: This is my first time trying GitHub Pages.
+title: Petra
 ---
 
 <img alt="Historical Monument" src="https://octodex.github.com/images/Mardigrastocat.png" width="100" align="right">
@@ -21,8 +21,8 @@ Established possibly as early as 312 BC as the capital city of the Nabataeans, i
 
 ## Key Archaeological Zones
 
-- [ ] **The Siq:** A dramatic, narrow gorge that serves as the main entrance to the ancient city.
-- [ ] **Al-Khazneh (The Treasury):** The most elaborate temple, carved entirely out of a sandstone rock face.
-- [ ] **The Monastery:** A monumental building perched high above the main valley floor.
+-  **The Siq:** A dramatic, narrow gorge that serves as the main entrance to the ancient city.
+-  **Al-Khazneh (The Treasury):** The most elaborate temple, carved entirely out of a sandstone rock face.
+-  **The Monastery:** A monumental building perched high above the main valley floor.
 
 > **Note:** The site was designated a UNESCO World Heritage Site in 1985 and was named one of the New7Wonders of the World in 2007.
